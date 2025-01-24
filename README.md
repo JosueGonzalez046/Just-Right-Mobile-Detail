@@ -1,0 +1,1 @@
+# Just-Right-Mobile-Detail
