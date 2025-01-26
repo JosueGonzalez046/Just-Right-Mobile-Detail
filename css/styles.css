@@ -218,7 +218,7 @@ footer{
         width: 100%;
     }
      #boxes .box {
-        margin: 10px auto; /* Center boxes and ensure no horizontal overflow */
+        margin:  auto; /* Center boxes and ensure no horizontal overflow */
      }
 
      #showcase {
