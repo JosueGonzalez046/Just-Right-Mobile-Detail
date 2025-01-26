@@ -218,12 +218,16 @@ footer{
         width: 100%;
     }
      #boxes .box {
-        margin:  auto; /* Center boxes and ensure no horizontal overflow */
+        margin: 10px auto; /* Center boxes and ensure no horizontal overflow */
      }
 
      #showcase {
         background-position: center center; /* Centers the image on smaller screens */
         background-size: cover; /* Ensures the image covers the entire area */
+    }
+
+    .container{
+        width: 100%;
     }
     
 }
